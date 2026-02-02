@@ -1,3 +1,5 @@
+# MERGED INTO ItsDoomOne/NixOS!!!!
+
 # NixOS-thinkpad
 Another config, this time for my Thinkpad.
 
